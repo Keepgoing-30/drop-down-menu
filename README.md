@@ -32,7 +32,7 @@ A sleek, modern, and highly responsive dropdown menu component built with **Reac
 ### Installation
 1.  **Clone the repository**:
     ```bash
-    git clone [https://github.com/Keepgoing-30/user-section.git](https://github.com/Keepgoing-30/user-section.git)
+    git clone [https://github.com/Keepgoing-30/drop-down-menu.git]
     ```
 2.  **Install dependencies**:
     ```bash
